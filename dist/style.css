@@ -1,0 +1,26 @@
+.row {
+    display: flex;
+}
+body {
+    display: block;
+    margin: 150px 132px 113px 450px;
+}
+.container{
+    background-color: rgb(127, 168, 243);
+    display: inline-block;
+    
+}
+.box{
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgb(111, 137, 141);
+    color: black;
+    margin: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.O{
+    background-color: black;
+}
